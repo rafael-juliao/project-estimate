@@ -1,0 +1,1 @@
+service = require('../service/projects.service')
